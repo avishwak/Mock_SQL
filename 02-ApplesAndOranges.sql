@@ -1,5 +1,3 @@
-
-
 -- cte
 with apples as(
     select sale_date, fruit as apple, sold_num as a_num 
